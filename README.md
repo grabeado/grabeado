@@ -18,7 +18,7 @@
 
 
 
-<h2 align="center">' ask <img src="https://cdn.discordapp.com/emojis/1155274265734697023.gif" width="35"></h2>
+<h2 align="center">@ask <img src="https://cdn.discordapp.com/emojis/1155274265734697023.gif" width="35"></h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,css,html,js,nodejs,mysql,sqlite,github,vscode,linux=12" />
