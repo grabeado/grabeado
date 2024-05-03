@@ -11,7 +11,7 @@
     <a href="https://www.tiktok.com/@grabeador" style="text-decoration: none; color: inherit; font-size: 16px;">; ttk</a>
     <br>
     <img src="https://cdn.discordapp.com/emojis/1192506944905293857.gif" width="16" style="vertical-align: middle; width: 16px; height: 16px;"/> 
-    <a href="https://twitter.com/narcoculture" style="text-decoration: none; color: inherit; font-size: 16px;">; twt</a>
+    <a href="https://twitter.com/glockwithslide" style="text-decoration: none; color: inherit; font-size: 16px;">; twt</a>
   </h1>
 </div>
 
